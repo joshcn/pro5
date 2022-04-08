@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{11F3F14D-90EA-2731-DE72-191C9B1424B0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Course Library/Props/Scripts/Target.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Course Library/Props/Scripts/GameManager.cs">
     <Files>
-      <File FileName="Assets/Course Library/Props/Scripts/Target.cs.cs" Line="35" Column="1" />
+      <File FileName="Assets/Course Library/Props/Scripts/Target.cs" Line="23" Column="26" />
+      <File FileName="Assets/Course Library/Props/Scripts/GameManager.cs" Line="30" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
               <Node name="Course Library" expanded="True">
                 <Node name="Props" expanded="True">
                   <Node name="Scripts" expanded="True">
-                    <Node name="Target.cs" selected="True" />
+                    <Node name="GameManager.cs" selected="True" />
                   </Node>
                 </Node>
               </Node>
@@ -23,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96f5e827-9b38-40e9-9002-db7d3751660c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="567a2476-c084-44c7-a6bd-444543993a29" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
