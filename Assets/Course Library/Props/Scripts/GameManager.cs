@@ -11,9 +11,9 @@ public class GameManager : MonoBehaviour
     {
         StartCoroutine(SpawnTarget());
     }
-    IEnumerable SpawnTarget()
+    IEnumerator SpawnTarget()
     {
-        while (true)
+        while(true)
         {
             yield return new WaitForSeconds(spawnRate);
             int index = Random.Range(0, targets.Count);
