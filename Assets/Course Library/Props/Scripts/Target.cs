@@ -11,7 +11,8 @@ public class Target : MonoBehaviour
     private float ySpawnPos = -6;
     private Rigidbody targetRb;
     private GameManager gameManager;
-    public int pointValue; 
+    public int pointValue;
+    public ParticleSystem explosionParticle;
     // Start is called before the first frame update
     void Start()
     {
@@ -44,6 +45,7 @@ public class Target : MonoBehaviour
     private void OnMouseDown()
     {
         Destroy(gameObject);
+        Instantiate(explosionParticle, transform.position, explosionParticle.transform.rotation);
         gameManager.UpdateScore(pointValue);
     }
     private void OnTriggerEnter(Collider other)

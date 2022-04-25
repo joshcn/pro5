@@ -8,12 +8,10 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="pro5" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Course Library" expanded="True">
                 <Node name="Props" expanded="True">
-                  <Node name="Scripts" expanded="True">
-                    <Node name="GameManager.cs" selected="True" />
-                  </Node>
+                  <Node name="Scripts" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -24,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7624916d-5289-4fa7-b460-5b32d3360b94" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca8b4107-3dc5-4410-b075-e0a6dbe69535" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
