@@ -216,6 +216,8 @@ MonoBehaviour:
   - {fileID: 2890877608285500373, guid: 6df1150d91c6042f3b7e023987b9b0eb, type: 3}
   - {fileID: 3836096660937509042, guid: 8a1545c10642e424db0ca0c3bb68393e, type: 3}
   - {fileID: 189195057043169158, guid: 4aec01ed8721f4fc4a94161aab885b7d, type: 3}
+  gameOverText: {fileID: 0}
+  isGameActive: 0
 --- !u!4 &283568038
 Transform:
   m_ObjectHideFlags: 0
@@ -832,14 +834,14 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_textAlignment: 257
+  m_textAlignment: 258
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
+  m_enableWordWrapping: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_firstOverflowCharacterIndex: -1
