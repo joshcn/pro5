@@ -1,21 +1,26 @@
 ﻿<Properties StartupConfiguration="{11F3F14D-90EA-2731-DE72-191C9B1424B0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Course Library/_Source_Files/Scripts/DifficultyButton.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 5/Scripts/GameManagerX.cs">
     <Files>
       <File FileName="Assets/Course Library/_Source_Files/Scripts/DestroyAfterDelay.cs" Line="1" Column="1" />
-      <File FileName="Assets/Course Library/_Source_Files/Scripts/DifficultyButton.cs" Line="20" Column="52" />
+      <File FileName="Assets/Course Library/_Source_Files/Scripts/DifficultyButton.cs" />
       <File FileName="Assets/Course Library/Props/Scripts/GameManager.cs" />
       <File FileName="Assets/Course Library/Props/Scripts/Target.cs" />
+      <File FileName="Assets/Challenge 5/Scripts/DestroyObjectX.cs" />
+      <File FileName="Assets/Challenge 5/Scripts/DifficultyButtonX.cs" />
+      <File FileName="Assets/Challenge 5/Scripts/GameManagerX.cs" Line="81" Column="22" />
+      <File FileName="Assets/Challenge 5/Scripts/TargetX.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="pro5" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Challenge 5" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
               <Node name="Course Library" expanded="True">
                 <Node name="_Source_Files" expanded="True">
-                  <Node name="Scripts" expanded="True">
-                    <Node name="DestroyAfterDelay.cs" selected="True" />
-                  </Node>
+                  <Node name="Scripts" expanded="True" />
                 </Node>
                 <Node name="Props" expanded="True">
                   <Node name="Scripts" expanded="True" />
@@ -29,7 +34,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7b33562-d92b-40ee-b41e-86bb25ff76c0" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a91c900-d0d2-4e87-bbb2-db02892ea873" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
